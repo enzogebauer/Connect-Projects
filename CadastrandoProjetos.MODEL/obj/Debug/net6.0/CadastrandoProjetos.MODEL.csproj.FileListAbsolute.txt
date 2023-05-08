@@ -1,0 +1,12 @@
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\bin\Debug\net6.0\CadastrandoProjetos.MODEL.deps.json
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\bin\Debug\net6.0\CadastrandoProjetos.MODEL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\bin\Debug\net6.0\CadastrandoProjetos.MODEL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\CadastrandoProjetos.MODEL.csproj.AssemblyReference.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\CadastrandoProjetos.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\CadastrandoProjetos.MODEL.AssemblyInfoInputs.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\CadastrandoProjetos.MODEL.AssemblyInfo.cs
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\CadastrandoProjetos.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\CadastrandoProjetos.MODEL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\refint\CadastrandoProjetos.MODEL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\CadastrandoProjetos.MODEL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.MODEL\obj\Debug\net6.0\ref\CadastrandoProjetos.MODEL.dll

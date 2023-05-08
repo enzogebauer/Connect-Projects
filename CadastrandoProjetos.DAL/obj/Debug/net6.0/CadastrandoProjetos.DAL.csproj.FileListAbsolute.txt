@@ -1,0 +1,17 @@
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\bin\Debug\net6.0\CadastrandoProjetos.DAL.deps.json
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\bin\Debug\net6.0\CadastrandoProjetos.DAL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\bin\Debug\net6.0\CadastrandoProjetos.DAL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.csproj.AssemblyReference.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.AssemblyInfoInputs.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.AssemblyInfo.cs
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\refint\CadastrandoProjetos.DAL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\ref\CadastrandoProjetos.DAL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\bin\Debug\net6.0\CadastrandoProjetos.DAL.runtimeconfig.json
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.genruntimeconfig.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\bin\Debug\net6.0\CadastrandoProjetos.MODEL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\bin\Debug\net6.0\CadastrandoProjetos.MODEL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.DAL\obj\Debug\net6.0\CadastrandoProjetos.DAL.csproj.CopyComplete

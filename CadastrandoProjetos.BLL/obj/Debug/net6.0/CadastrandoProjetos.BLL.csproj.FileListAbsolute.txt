@@ -1,0 +1,17 @@
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\bin\Debug\net6.0\CadastrandoProjetos.BLL.deps.json
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\bin\Debug\net6.0\CadastrandoProjetos.BLL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\bin\Debug\net6.0\CadastrandoProjetos.BLL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.csproj.AssemblyReference.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.AssemblyInfoInputs.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.AssemblyInfo.cs
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.csproj.CoreCompileInputs.cache
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\refint\CadastrandoProjetos.BLL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\ref\CadastrandoProjetos.BLL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\bin\Debug\net6.0\CadastrandoProjetos.DAL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\bin\Debug\net6.0\CadastrandoProjetos.MODEL.dll
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\bin\Debug\net6.0\CadastrandoProjetos.DAL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\bin\Debug\net6.0\CadastrandoProjetos.MODEL.pdb
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.BLL\obj\Debug\net6.0\CadastrandoProjetos.BLL.csproj.CopyComplete
