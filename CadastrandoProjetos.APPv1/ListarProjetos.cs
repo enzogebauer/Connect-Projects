@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CadastrandoProjetos.BLL;
+using CadastrandoProjetos.MODEL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -32,6 +34,17 @@ namespace CadastrandoProjetos.APPv1
             TelaDeInicio telaDeInicio = new TelaDeInicio();
             telaDeInicio.Show();
             Visible = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            List<Projeto> projetos = ProjectRepository.GetAll();
+            dataGridView1.DataSource = projetos;
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
