@@ -4,6 +4,9 @@
     <Compile Update="Cadastrar _projeto.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Editar_projeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ListarProjetos.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -33,7 +33,7 @@ namespace CadastrandoProjetos.APPv1
         }
         private void Btn_cadastrar_Click(object sender, EventArgs e)
         {
-           
+
             CadastrarProjeto telaDeCadastrar = new CadastrarProjeto();
             telaDeCadastrar.Show();
             Visible = false;
@@ -43,6 +43,13 @@ namespace CadastrandoProjetos.APPv1
         {
             ListarProjetos l1 = new ListarProjetos();
             l1.Show();
+            Visible = false;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Editar_projeto e1 = new Editar_projeto();
+            e1.Show();
             Visible = false;
         }
     }

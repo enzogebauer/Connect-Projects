@@ -61,3 +61,4 @@ C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.APPv1\obj\De
 C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.APPv1\obj\Debug\net6.0-windows\CadastrandoProjetos.APPv1.Properties.Resources.resources
 C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.APPv1\obj\Debug\net6.0-windows\CadastrandoProjetos.APPv1.CadastrarProjeto.resources
 C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.APPv1\obj\Debug\net6.0-windows\CadastrandoProjetos.APPv1.ListarProjetos.resources
+C:\Users\enzog\source\repos\CadastrandoProjetos\CadastrandoProjetos.APPv1\obj\Debug\net6.0-windows\CadastrandoProjetos.APPv1.Editar_projeto.resources

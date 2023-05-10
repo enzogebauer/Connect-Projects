@@ -33,6 +33,7 @@
             Btn_cadastrar = new Button();
             BotãoExibirProjetos = new Button();
             label2 = new Label();
+            button1 = new Button();
             SuspendLayout();
             // 
             // imageList1
@@ -81,12 +82,27 @@
             label2.Text = "Bem vindos ao ConnectProjects";
             label2.Click += label2_Click;
             // 
+            // button1
+            // 
+            button1.AccessibleName = "Btn_cadastrar";
+            button1.BackColor = SystemColors.ActiveCaption;
+            button1.Font = new Font("Arial Rounded MT Bold", 24F, FontStyle.Regular, GraphicsUnit.Point);
+            button1.ForeColor = Color.Blue;
+            button1.Location = new Point(1016, 262);
+            button1.Name = "button1";
+            button1.Size = new Size(291, 164);
+            button1.TabIndex = 3;
+            button1.Text = "Editar Projetos";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
             // TelaDeInicio
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.wallpaperProjects;
             ClientSize = new Size(1904, 1041);
+            Controls.Add(button1);
             Controls.Add(label2);
             Controls.Add(BotãoExibirProjetos);
             Controls.Add(Btn_cadastrar);
@@ -103,5 +119,6 @@
         private Button Btn_cadastrar;
         private Button BotãoExibirProjetos;
         private Label label2;
+        private Button button1;
     }
 }
